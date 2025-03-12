@@ -1,0 +1,7 @@
+- Quantidade de contratações
+	- Funcionários Ativos
+	- Funcionários Desligados
+- Análise de funcionários por gênero
+- Horas Extras
+- Análise de Salario (Folha de pagamento)
+- Turnover (rotatividade)
