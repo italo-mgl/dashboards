@@ -10,7 +10,7 @@ O principal objetivo deste repositório é demonstrar minhas habilidades em aná
 
 Para visualizar meus projetos publicados, basta acessar meu porfólio no link abaixo:
 
-[Ítalo Magalhães Portfólio](https://italo-mgl.streamlit.app/)
+[Ítalo Magalhães Portfólio](https://italo-mgl.streamlit.app/{:target="_blank"})
 
 ## Ferramentas Utilizadas
 
