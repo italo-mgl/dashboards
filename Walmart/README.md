@@ -1,20 +1,8 @@
-# Repositório de Dashboards
+# Projeto final do Curso de Data Science and Artificial Intelligence da Dataflorida Tech
 
-Este repositório foi criado para armazenar e compartilhar meus projetos de dashboards, servindo como estudo e apresentação de habilidades.
+Projeto de análise de dados de fraude com dados do Walmart:
 
-## Objetivo
+<img width="1428" height="803" alt="image" src="https://github.com/user-attachments/assets/5965cf4a-fb6c-4b60-9dd8-7254bc36fff0" />
 
-O principal objetivo deste repositório é demonstrar minhas habilidades em análise de dados e visualização, além de fornecer uma coleção de dashboards que utilizei em projetos de aprendizado e desenvolvimento profissional.
-
-## Onde visualizar os dashboards publicados?
-
-Para visualizar meus projetos publicados, basta acessar meu porfólio no link abaixo:
 
 [Ítalo Magalhães Portfólio](https://italo-mgl.streamlit.app/{:target="_blank"})
-
-## Ferramentas Utilizadas
-
-- Power BI
-- Excel
-- SQL
-- Python
