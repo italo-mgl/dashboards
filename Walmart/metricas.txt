@@ -1,0 +1,15 @@
+- Valor total de pedidos
+- Valor total PERdidos
+- Ticket médio perdido
+
+- Grafico barras % perdas por região
+- Valor perdido por categoria e subcategoria
+- Comparação % perdidos x % valor perdido por mes
+
+- Qtd de motorista por classificação de risco
+- Perda por motorista: valor x frequencia
+- valor perdido por classificação de risco de motorista
+
+- Categorias com maior participação nas perdas
+
+-
